@@ -1,0 +1,14 @@
+{
+  "name": "thermostatwar3d-relay",
+  "version": "1.0.0",
+  "description": "Online game server for the browser version of Thermostat War 3D: passes multiplayer messages between players.",
+  "main": "relay.js",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node relay.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
