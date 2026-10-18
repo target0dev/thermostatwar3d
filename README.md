@@ -3,7 +3,7 @@
 One office. One thermostat. Four coworkers who all want a different temperature.
 Sneak out of your cubicle, nudge the dial your way, and make sure someone else takes the blame.
 
-**Play:** open the GitHub Pages link of this repository (Settings, Pages).
+**Play in your browser:** https://target0dev.github.io/thermostatwar3d/
 Keyboard and mouse: WASD to walk, click then mouse (or J/L) to look, R/F to nudge the dial warmer/cooler,
 E to look around or take supplies, Q to use an item, V to change the camera, Esc for the menu.
 
